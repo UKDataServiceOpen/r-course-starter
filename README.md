@@ -1,5 +1,10 @@
 # Online course starter: R
 
+## Binder deploy
+Note that rebuilding the binder container can take a little bit of time (usually on the order of 5 or 10 minutes or so), since it is installing/compiling tidyverse for the container. You can always check the build status of the container by clicking the badge below and looking at the log.
+
+You can view the binder container here: Binder or at: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/r-course-starter/HEAD)
+
 This is a starter repo based on the
 [course framework](https://github.com/ines/spacy-course) I developed for my
 [spaCy course](https://course.spacy.io). The front-end is powered by
