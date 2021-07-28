@@ -59,3 +59,33 @@ This is a hint.
 </codeblock>
 
 </exercise>
+
+<exercise id="4" title="R Test">
+
+<codeblock id="01_04">
+
+This is a hint.
+
+</codeblock>
+
+<choice>
+<opt text="3">
+
+No, think about what 2 + 2 might evaluate to?
+
+</opt>
+
+<opt text="4" correct="true">
+
+Good job! 2 + 2 is 4!
+
+</opt>
+
+<opt text="5">
+
+A little too high, guess again!
+
+</opt>
+</choice>
+
+</exercise>
