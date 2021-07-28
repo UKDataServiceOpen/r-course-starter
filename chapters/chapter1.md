@@ -89,3 +89,15 @@ A little too high, guess again!
 </choice>
 
 </exercise>
+
+<exercise id="5" title="Import data">
+
+you can import data using the read_csv function.
+
+<codeblock id="01_05">
+
+This is a hint.
+
+</codeblock>
+
+</exercise>
