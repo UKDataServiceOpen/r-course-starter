@@ -3,3 +3,6 @@ total <- ____
 
 # Print the variable
 print(____)
+
+# test read in the dataset from /data/test.txt
+df <- read.table('data/test.txt', header = FALSE)
