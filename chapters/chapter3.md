@@ -47,6 +47,25 @@ Each will help us to understand the relationship between religion and attitudes 
 We need to start by opening the data. Run the code below to open the dataset and view a snapshot of the data.
 
   <codeblock id="03_01">
-    This is a hint.
+    Count the variables logged after running this code block.
   </codeblock >
+
+How many variables are there in this dataset?
+
+<choice>
+<opt text="27">
+Not quite, have another go!
+</opt>
+
+<opt text="19" >
+Not quite, have another go!
+</opt>
+
+<opt text="20" correct="true">
+Great job, there are 20 variables in this dataset!
+</opt>
+</choice>
+
+**Data Tip: Variables** contain information. In this case, they each contain information about people who completed the survey. They each have a name; sometimes, you can the information the variable contains from the name while other times it is less clear. What do you think the first variable 'agrp' refers to?
+
 </exercise >

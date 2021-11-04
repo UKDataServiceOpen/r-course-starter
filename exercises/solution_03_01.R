@@ -20,5 +20,6 @@ ntsl3$snearly <-recode_factor(ntsl3$snearly, "Don't know" = NA_character_)
 ntsl3$rsex<- as_factor(ntsl3$rsex) 
 ntsl3$agrp<- as_factor(ntsl3$agrp) 
 
-# Print out all column names
-names(ntsl3)
+# Print out the number of variables
+print('The number of variables is:')
+length(names(ntsl3))
